@@ -215,7 +215,7 @@ Add screenshots after running the app locally:
 - Product add/edit form
 - Cart page
 
-## Interview Talking Points
+<!-- ## Interview Talking Points
 
 - Built a layered Spring Boot backend with controller, service, repository, DTO, config, model, and exception packages.
 - Avoided returning raw image BLOB data in product list responses by exposing a dedicated image streaming endpoint.
@@ -224,7 +224,7 @@ Add screenshots after running the app locally:
 - Configured MySQL with environment variables instead of hardcoded secrets.
 - Implemented React Router pages and reusable product components for a real catalog workflow.
 - Managed cart state with React Context API and persisted it to localStorage.
-- Added client-side search debounce, filters, sorting, skeleton loaders, empty states, and toast notifications for a polished user experience.
+- Added client-side search debounce, filters, sorting, skeleton loaders, empty states, and toast notifications for a polished user experience. -->
 
 ## Future Enhancements
 
