@@ -2,7 +2,7 @@
 
 ## Overview
 
-DeeMart is an interview-ready full-stack e-commerce product-management platform built with React, Java, Spring Boot, and MySQL. It supports dynamic product listing, search, filtering, sorting, product detail pages, multipart product image uploads, MySQL persistence, and cart state managed with React Context API.
+DeeMart is a full-stack e-commerce product-management platform built with React, Java, Spring Boot, and MySQL. It supports dynamic product listing, search, filtering, sorting, product detail pages, multipart product image uploads, MySQL persistence, and cart state managed with React Context API.
 
 The application is designed as a polished catalog operations tool rather than a tutorial CRUD page. The backend exposes REST APIs for product lifecycle management, while the frontend provides a responsive catalog, product editor, product detail view, and cart workflow.
 
