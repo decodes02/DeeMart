@@ -205,7 +205,7 @@ $env:VITE_API_BASE_URL="http://localhost:8080"
 npm run dev
 ```
 
-## Screenshots
+<!-- ## Screenshots
 
 Add screenshots after running the app locally:
 
@@ -213,7 +213,7 @@ Add screenshots after running the app locally:
 - Product listing with filters
 - Product detail page
 - Product add/edit form
-- Cart page
+- Cart page -->
 
 <!-- ## Interview Talking Points
 
